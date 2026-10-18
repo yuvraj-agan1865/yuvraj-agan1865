@@ -43,7 +43,7 @@ public class YuvrajAgan {
 }
 ```
 
-- 🎓 First-year BTech CSE student at **VIT-AP University**
+- 🎓 Second-Year BTech CSE student at **VIT-AP University**
 - 💻 Practising Data Structures and Algorithms using Java
 - 🌱 Exploring web development and AI/ML
 - 🧠 Interested in writing efficient and readable code
@@ -89,33 +89,6 @@ public class YuvrajAgan {
   />
 
 </div>
-
----
-
-<!-- ================= FEATURED PROJECT ================= -->
-
-## 🚀 Featured Project
-
-<div align="center">
-
-  <a href="https://github.com/yuvraj-agan1865/JAVA-DSA">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-agan1865&repo=JAVA-DSA&theme=tokyonight&hide_border=true"
-      alt="JAVA-DSA repository card"
-    />
-  </a>
-
-</div>
-
-### 💡 JAVA-DSA
-
-My Java practice repository for learning data structures, algorithms, and programming fundamentals.
-
-- Java programming practice
-- Data structures and algorithm implementations
-- Problem-solving exercises
-
-[Explore the repository →](https://github.com/yuvraj-agan1865/JAVA-DSA)
 
 ---
 
