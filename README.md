@@ -1,8 +1,9 @@
 <!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:06B6D4&height=220&section=header&text=Yuvraj%20Agan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Data%20Structures%20%26%20Algorithms%20%7C%20Web%20Development&descSize=16&descAlignY=55" width="100%" alt="Profile header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Yuvraj%20Agan&fontSize=40&fontColor=ffffff" width="100%" alt="Profile header"/>
+</p>
 
   <a href="https://github.com/yuvraj-agan1865">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+VIT-AP;Java+%26+DSA+Enthusiast;Learning+by+Building+Projects;Always+Improving+My+Problem-Solving" alt="Typing introduction"/>
