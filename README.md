@@ -1,18 +1,18 @@
+
 <!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Yuvraj%20Agan&fontSize=40&fontColor=ffffff" width="100%" alt="Profile header"/>
-</p>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Yuvraj%20Agan&fontSize=40&fontColor=ffffff" width="100%" alt="Profile header"/>
+  </p>
 
   <a href="https://github.com/yuvraj-agan1865">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+VIT-AP;Java+%26+DSA+Enthusiast;Learning+by+Building+Projects;Always+Improving+My+Problem-Solving" alt="Typing introduction"/>
   </a>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=yuvraj-agan1865&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
@@ -48,6 +48,7 @@ public class YuvrajAgan {
 - 🌱 Exploring web development and AI/ML
 - 🧠 Interested in writing efficient and readable code
 - 🚀 Building projects and strengthening programming fundamentals
+- 🧩 Practising coding problems on LeetCode
 
 ---
 
@@ -91,36 +92,6 @@ public class YuvrajAgan {
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=yuvraj-agan1865&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-agan1865&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-
-</div>
-
----
-
 <!-- ================= FEATURED PROJECT ================= -->
 
 ## 🚀 Featured Project
@@ -148,14 +119,18 @@ My Java practice repository for learning data structures, algorithms, and progra
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= CODING PROFILES ================= -->
 
-## 🤝 Connect With Me
+## 🧑‍💻 Coding Profiles
 
 <div align="center">
 
   <a href="https://github.com/yuvraj-agan1865">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+
+  <a href="https://leetcode.com/u/yuvraj209/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 
   <br/><br/>
@@ -164,9 +139,14 @@ My Java practice repository for learning data structures, algorithms, and progra
 
 </div>
 
+---
+
 <!-- ================= FOOTER ================= -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=100&section=footer" width="100%" alt="Profile footer"/>
+</div>
+
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Profile footer"/>
 
