@@ -2,17 +2,17 @@
 <!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Yuvraj%20Agan&fontSize=40&fontColor=ffffff" width="100%" alt="Profile header"/>
-  </p>
+
+  <a href="https://in.linkedin.com/in/yuvraj-agan-624560396" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Yuvraj%20Agan&fontSize=40&fontColor=ffffff" width="100%" alt="Yuvraj Agan - Visit my LinkedIn profile"/>
+  </a>
+
+  <br/><br/>
 
   <a href="https://github.com/yuvraj-agan1865">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+VIT-AP;Java+%26+DSA+Enthusiast;Learning+by+Building+Projects;Always+Improving+My+Problem-Solving" alt="Typing introduction"/>
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=yuvraj-agan1865&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
@@ -145,9 +145,4 @@ My Java practice repository for learning data structures, algorithms, and progra
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=100&section=footer" width="100%" alt="Profile footer"/>
-</div>
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Profile footer"/>
-
 </div>
